@@ -1,0 +1,289 @@
+[1] S.M. Warren, P. Walter, A logical calculus of the ideas immanent in nervous activity, Bull. Math. Biophys. 5 (1943) 115–133.
+
+[2] A. Cichoki, R. Unbehauen, Neural Networks for Optimization and Signal Processing, thirrd ed., 1994.
+
+[3] F. Rosenblatt, The perceptron: a probabilistic model for information storage and organization in the brain, Psychol. Rev. 65 (1958) 386.
+
+[4] M. Minsky and S. Papert, “Perceptrons,” MIT Press, Cambridge, 1969.
+
+[5] Paul J. Werbos. Beyond Regression: New Tools for Prediction and analysis in the Behavioral Sciences. PhD thesis, Harvard University, 1974.
+
+[6] Rumelhart D E, Hinton G E, Williams R J. Learning representations by back-propagating errors[J]. nature, 1986, 323(6088): 533.
+
+[7] S. Amari. Backpropagation and stochastic gradient descent method. Neuro-computing, 5(4 - 5):185 – 196, 1993. 2.1.5
+
+[8] M.Y. Mashor, Hybrid multilayered perceptron networks, Int. J. Syst. Sci. 31 (2000) 771–785, https://doi.org/10.1080/00207720050030815.
+
+[9] J.P. Resop, A Comparison of Artifificial Neural Networks and Statistical Regression with Biological Resources Applications, 2006.
+
+[10] T. Ince, S. Kiranyaz, J. Pulkkinen, M. Gabbouj, Evaluation of global and local training techniques over feed-forward neural network architecture spaces for computer-aided medical diagnosis, Expert Syst. Appl. 37 (2010) 8450–8461, https://doi.org/10.1016/j.eswa.2010.05.033.
+
+[11] T.W. Rauber, K. Berns, Kernel multilayer perceptron, in: Proc. - 24th SIBGRAPI Conf. Graph. Patterns Images, 2011 pp. 337–343. https://doi.org/ 10.1109/SIBGRAPI.2011.21.
+
+[12] H. Ogai, B. Bhattacharya, Pipe Inspection Robots for Structural Health and Condition Monitoring, 2018. https://doi.org/10.1007/978-81-322-3751-8.
+
+[13] G. Zhou, Y . Zhou, H. Huang, and Z. Tang, “Functional networks and applications: A survey,” Neurocomputing, vol. 335, pp. 384–399, 2019.
+
+[14] S. Qian, H. Liu, C. Liu, S. Wu, and H. San Wong, “Adaptive activation functions in convolutional neural networks,” Neurocomputing, vol. 272, pp. 204–212, 2018.
+
+[15] X. Jiang, Y . Pang, X. Li, J. Pan, and Y . Xie, “Deep neural networks with elastic rectified linear units for object recognition,” Neurocomputing, vol. 275, pp. 1132–1139, 2018.
+
+[16] F. Fan and G. Wang, “Universal approximation with quadratic deep networks,” arXiv preprint arXiv:1808.00098, 2018.
+
+[17] S. Kiranyaz, T. Ince, A. Iosififidis, Moncef Gabbouj, Progressive operational perceptrons, Neurocomputing (2016), https://doi.org/10.1016/j. neucom.2016.10.044.
+
+[18] S. Kiranyaz, T. Ince, A. Iosififidis, M. Gabbouj, Generalized model of biological neural networks: progressive operational perceptrons, in: Proc. Int. Jt. Conf. Neural Networks. 2017–May (2017) 2477–2485. https://doi.org/10.1109/IJCNN.2017.7966157.
+
+[19] D.H. Hubel, T.N. Wiesel, Receptive fifields of single neurones in the cat’s striate cortex, J. Physiol. 148 (1959) 574–591.
+
+[20] D.H. Hubel, Single unit activity in lateral geniculate body and optic tract of unrestrained cats, J. Physiol. 150 (1960) 91–104, https://doi.org/10.1113/
+
+jphysiol.1960.sp006375.
+
+[21] D.H. Hubel, T.N. Wiesel, Receptive fifields, binocular interaction and functional architecture in the cat’s visual cortex, J. Physiol. 160 (1962) 106–154.
+
+[22] D.H. Hubel, T.N. Wiesel, Receptive fifields of cells in striate cortex of very young, visually inexperienced kittens, J. Neurophysiol. 26 (1963) 994–1002.
+
+[23] D.H. Hubel, T.N. Wiesel, Receptive fifields and functional architecture of monkey striate cortex, J. Physiol. 195 (1968) 215–243.
+
+[24] K. Fukushima, S. Miyake, Neocognitron: a new algorithm for pattern recognition tolerant of deformations and shifts in position, Pattern Recognit. 15
+
+(1982) 455–469, https://doi.org/10.1016/0031-3203(82)90024-3.
+
+[25] Lecun, Y., Boser, B.E., Denker, J.S., et al. (1989) Backpropagation Applied to Handwritten Zip Code Recognition. Neural Computation, 1, 541-551.
+http://dx.doi.org/10.1162/neco.1989.1.4.541 
+
+[26] Y. LeCun, B. Boser, J.S. Denker, R.E. Howard, W. Habbard, L.D. Jackel, Handwritten digit recognition with a back-propagation network, Adv. Neural Inf. Process. Syst. (1990) 396–404, https://doi.org/10.1111/dsu.12130.
+
+[27] L. Yann, C. Corinna, B. Chris, MNIST Handwritten Digit Database, New York Univ, 2018.
+
+[28] Y. LeCun, Gradient Based Learning Applied To Document Recognition, 1998, pp. 1–46.
+
+[29] Vapnik, V.N. and Lerner, A.Y., 1963. Recognition of patterns with help of generalized portraits. Avtomat. i Telemekh, 24(6), pp.774-780.
+
+[30] Vapnik, V. and Chervonenkis, A., 1964. A note on class of perceptron. Automation and Remote Control, 24.
+
+[31] Smith, F.W., 1968. Pattern classifier design by linear programming. IEEE Transactions on Computers, 100(4), pp.367-372.
+
+[32]Boser, B.E., Guyon, I.M. and Vapnik, V.N. (1992) A Training Algorithm for Optimal Margin Classifiers. Proceedings of the 5th Annual Workshop on Computational Learning Theory (COLT’92), Pittsburgh, 27-29 July 1992, 144-152.
+
+[33] Vapnik, V.N. (1995) The Nature of Statistical Learning Theory. Springer-Verlag, New York.
+
+[34] Pearl J． Probabilistic Reasoning in Intelligent Systems［M］． Morgan Kaufinann: Network of Plausible Inference，1988: 1-86
+
+[35] Cooper G F, Herskovits E.A Bayesian Method for the Induction of Probabilistic Networks from Data[J].Machine Learning, 1992, 9:309-347.
+
+[36] Paul Viola,Michael J. Jones. Robust Real-Time Face Detection[J]. International Journal of Computer Vision,2004,57(2).
+
+[37] Dalal N , Triggs B . Histograms of Oriented Gradients for Human Detection[C]// IEEE Computer Society Conference on Computer Vision & Pattern Recognition. IEEE, 2005.
+
+[38] Krizhevsky, A., Sutskever, I. and Hinton, G.E. (2012) ImageNet Classification with Deep Convolutional Neural Networks. Proceedings of the 25th International Conference on Neural Information Processing Systems, Lake Tahoe, 3-6 December 2012, 1097-1105.
+
+[39] Zeiler, M.D. and Fergus, R. (2013) Visualizing and Understanding Convolutional Networks. arXiv preprint arXiv:1311.2901
+
+[40] Szegedy C, Liu W, Jia Y, et al. Going deeper with convolutions[J]. arXiv preprint arXiv:1409.4842, 2014.
+
+[41] Ioffe S , Szegedy C . Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift[J]. 2015.
+
+[42] Szegedy C, Vanhoucke V, Ioffe S, et al. Rethinking the Inception Architecture for ComputerVision[J]. 2015:2818-2826.
+
+[43] Szegedy C, Ioffe S, Vanhoucke V, et al. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning[J]. 2016.
+
+[44] Simonyan K , Zisserman A . Very Deep Convolutional Networks for Large-Scale Image Recognition[J]. Computer Science, 2014.
+
+[45] Hinton G E , Srivastava N , Krizhevsky A , et al. Improving neural networks by preventing co-adaptation of feature detectors[J]. Computer Science, 2012, 3(4):págs. 212-223.
+
+[46] Dropout: A simple way to prevent neural networks from overfitting (2014), N. Srivastava et al.
+
+[47] He K , Zhang X , Ren S , et al. Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification[C]// CVPR. IEEE Computer Society, 2015.
+
+[48] Lecun Y , Bottou L , Orr G B , et al. Efficient BackProp[M]. Springer Berlin Heidelberg, 1998.
+
+[49] Glorot X , Bengio Y . Understanding the difficulty of training deep feedforward neural networks[J]. Journal of Machine Learning Research, 2010, 9:249-256.
+
+[50] He K , Zhang X , Ren S , et al. Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition[J]. IEEE Transactions on Pattern analysis & Machine Intelligence, 2014, 37(9):1904-16.
+
+[51] Lin M, Chen Q, Yan S. Network in network[J]. arXiv preprint arXiv:1312.4400, 2013.
+
+[52] Sandler M , Howard A , Zhu M , et al. MobileNetV2: Inverted Residuals and Linear Bottlenecks[C]// 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2018.
+
+[53] He K , Zhang X , Ren S , et al. Deep Residual Learning for Image Recognition[C]// IEEE Conference on Computer Vision & Pattern Recognition. IEEE Computer Society, 2016.
+
+[54] He K , Zhang X , Ren S , et al. Identity Mappings in Deep Residual Networks[J]. 2016.
+
+[55] Zagoruyko S , Komodakis N . Wide Residual Networks[J]. 2016.
+
+[56] Xie S , Girshick R , Dollár, Piotr, et al. Aggregated Residual Transformations for Deep Neural Networks[J]. 2016.
+
+[57] Gao Shanghua,Cheng Ming-Ming,Zhao Kai,Zhang Xin-Yu,Yang Ming-Hsuan,Torr Philip H S. Res2Net: A New Multi-scale Backbone Architecture.[J]. IEEE transactions on pattern analysis and machine intelligence,2019.
+
+[58] E. H. Adelson, C. H. Anderson, J. R. Bergen, P. J. Burt, and J. M. Ogden. Pyramid methods in image processing. RCA engineer, 1984.
+
+[59] K. He, X. Zhang, S. Ren, and J. Sun. Spatial pyramid pooling in deep convolutional networks for visual recognition. In ECCV. 2014.
+
+[60] W. Liu, D. Anguelov, D. Erhan, C. Szegedy, and S. Reed. SSD: Single shot multibox detector. In ECCV, 2016.
+
+[61] Lin T Y , Dollár, Piotr, Girshick R , et al. Feature Pyramid Networks for Object Detection[J]. 2016.
+
+[62] C.-F. R. Chen, Q. Fan, N. Mallinar, T. Sercu, and R. Feris. Big-Little Net: An Efficient Multi-Scale Feature Representation for Visual and Speech Recognition. In Int. Conf. Mach. Learn., 2019.
+
+[63] Y . Chen, H. Fang, B. Xu, Z. Yan, Y . Kalantidis, M. Rohrbach,S. Yan, and J. Feng. Drop an octave: Reducing spatial redundancy in convolutional neural networks with octave convolution. In Int.Conf. Comput. Vis., 2019.
+
+[64] B. Cheng, R. Xiao, J. Wang, T. Huang, and L. Zhang. High frequencyresidual learning for multi-scale image classification. In Brit. Mach.Vis. Conf., 2019.
+
+[65] K. Sun, B. Xiao, D. Liu, and J. Wang.  Deep high-resolution representation learning for human pose estimation. In IEEE Conf. Comput. Vis. Pattern Recog., pages 5693–5703, 2019.
+
+[66] K. Sun, Y . Zhao, B. Jiang, T. Cheng, B. Xiao, D. Liu, Y . Mu, X. Wang,W. Liu, and J. Wang. High-resolution representations for labelingpixels and regions. CoRR, abs/1904.04514, 2019.
+
+[67] F. Y u, D. Wang, E. Shelhamer, and T. Darrell. Deep layer aggregation. In IEEE Conf. Comput. Vis. Pattern Recog., pages 2403–2412, 2018.
+
+[68] Duta I C ,  Liu L ,  Zhu F , et al. Improved Residual Networks for Image and Video Recognition[J].  2020.
+
+[69] Ioannou Y , Robertson D , Cipolla R , et al. Deep Roots: Improving CNN Efficiency with Hierarchical Filter Groups[J]. 2017.
+
+[70] Zhang H ,  Wu C ,  Zhang Z , et al. ResNeSt: Split-Attention Networks[J].  2020.
+
+[71] Jie, Hu, Li,et al. Squeeze-and-Excitation Networks.[J]. IEEE transactions on pattern analysis and machine intelligence, 2019.
+
+[72] Li X ,  Wang W ,  Hu X , et al. Selective Kernel Networks[J]. IEEE, 2019.
+
+[73] Radosavovic I ,  Kosaraju R P ,  Girshick R , et al. Designing Network Design Spaces[J]. IEEE, 2020.
+
+[74] Szegedy C ,  Vanhoucke V ,  Ioffe S , et al. Rethinking the Inception Architecture for Computer Vision[J]. IEEE Computer Society, 2015.
+
+[75] Szegedy C ,  Ioffe S ,  Vanhoucke V , et al. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.  2016.
+
+[76] Iandola F N ,  Han S ,  Moskewicz M W , et al. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size[J].  2016.
+
+[77] Yu F ,  Koltun V . Multi-Scale Context Aggregation by Dilated Convolutions[J].  2015.
+
+[78] Yu F ,  Koltun V ,  Funkhouser T . Dilated Residual Networks[J]. IEEE Computer Society, 2017.
+
+[79] Gao H ,  Zhuang L ,  Maaten L V D , et al. Densely Connected Convolutional Networks[J]. Computer Era, 2017.
+
+[80] Dual Path Network  [1] Chen Y ,  Li J ,  Xiao H , et al. Dual Path Networks. Curran Associates Inc.  2017.
+
+[81] Huang G ,  Liu S ,  Laurens V , et al. CondenseNet: An Efficient DenseNet using Learned Group Convolutions.  2017.
+
+[82] Howard A G ,  Zhu M ,  Chen B , et al. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications[J].  2017.
+
+[83] Sandler M ,  Howard A ,  Zhu M , et al. Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation[J].  2018.
+
+[84] Tan M ,  Chen B ,  Pang R , et al. MnasNet: Platform-Aware Neural Architecture Search for Mobile[J].  2018.
+
+[85] Howard A ,  Sandler M ,  Chu G , et al. Searching for MobileNetV3[J].  2019.
+
+[86] Zhang X ,  Zhou X ,  Lin M , et al. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices[J].  2017.
+
+[87] Ma N ,  Zhang X ,  Zheng H T , et al. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design[J]. Springer, Cham, 2018.
+
+[88] Chollet F . Xception: Deep Learning with Depthwise Separable Convolutions[C]// 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2017.
+
+[89] Zoph B ,  Vasudevan V ,  Shlens J , et al. Learning Transferable Architectures for Scalable Image Recognition[J].  2017.
+
+[90] Freeman I ,  Roese-Koerner L ,  Kummert A . EffNet: An Efficient Structure for Convolutional Neural Networks[J]. IEEE, 2018.
+
+[91] Tan M ,  Le Q V . EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks[J].  2019.
+
+[92] Squeeze-and-Excitation Networks. IEEE transactions on pattern analysis and machine intelligence, 2019.
+
+[93] Li X ,  Wang W ,  Hu X , et al. Selective Kernel Networks[C]// 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2020.
+
+[94] Ding X ,  Zhang X ,  Ma N , et al. RepVGG: Making VGG-style ConvNets Great Again[J].  2021.
+
+[95] Dosovitskiy A ,  Beyer L ,  Kolesnikov A , et al. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale[J].  2020.
+
+[96] Han K ,  Wang Y ,  Chen H , et al. A Survey on Visual Transformer[J].  2020.
+
+[97] N. Qian, On the momentum term in gradient descent learning algorithms, Neural Networks 12 (1999) 145–151, https://doi.org/10.1016/S0893-6080(98)00116-6.
+
+[98] J. Duchi, E. Hazan, Y. Singer, Adaptive subgradient methods for online learning and stochastic optimization, COLT 2010 - 23rd Conf. Learn. Theory(2010) 257–269.
+
+[99] T. Tieleman, G. Hinton, Lecture 6.5 - RMSProp, Neural Networks for Machine Learning | Coursera, (n.d.).
+
+[100] K. Diederik, J.L. Ba, ADAM: a method for stochastic optimization, AIP Conf. Proc. 1631 (2014) 58–62, https://doi.org/10.1063/1.4902458.[101] S. Ruder, An overview of gradient descent optimization algorithms, 2016.
+
+[102] O. Janssens, V. Slavkovikj, B. Vervisch, K. Stockman, M. Loccufier, S. Verstockt, R. Van de Walle, S. Van Hoecke, Convolutional neural network based fault detection for rotating machinery, J. Sound Vib. 377 (2016) 331–345, https://doi.org/10.1016/j.jsv.2016.05.027.
+
+[103] Z. Wei, P. Gaoliang, L. Chuanhao, Bearings Fault Diagnosis Based on Convolutional Neural Networks with 2- D Representation of Vibration Signals as Input, 13001 (2017) 1–5.
+
+[104] S. Kiranyaz, T. Ince, R. Hamila, M. Gabbouj, Convolutional Neural Networks for patient-specific ECG classification, in: Proc. Annu. Int. Conf. IEEE Eng.
+
+Med. Biol. Soc. EMBS, 2015. https://doi.org/10.1109/EMBC.2015.7318926.
+
+[105] S. Kiranyaz, T. Ince, M. Gabbouj, Real-time patient-specific ECG classification by 1-D convolutional neural networks, IEEE Trans. Biomed. Eng. 63
+
+(2016) 664–675, https://doi.org/10.1109/TBME.2015.2468589.
+
+[106] S. Kiranyaz, T. Ince, M. Gabbouj, Personalized monitoring and advance warning system for cardiac arrhythmias, Sci. Rep. 7 (2017), https://doi.org/10.1038/s41598-017-09544-z.
+
+[107] O. Avci, O. Abdeljaber, S. Kiranyaz, M. Hussein, D.J. Inman, Wireless and real-time structural damage detection: a novel decentralized method for wireless sensor networks, J. Sound Vib. (2018).
+
+[108] O. Avci, O. Abdeljaber, S. Kiranyaz, D. Inman, Structural damage detection in real time: implementation of 1D convolutional neural networks for SHM applications, in: C. Niezrecki (Ed.), Struct. Heal. Monit. Damage Detect. Vol. 7 Proc. 35th IMAC, A Conf. Expo. Struct. Dyn. 2017, Springer International Publishing, Cham, 2017, pp. 49–54. https://doi.org/10.1007/978-3-319-54109-9_6.
+
+[109] O. Abdeljaber, O. Avci, S. Kiranyaz, M. Gabbouj, D.J. Inman, Real-time vibration-based structural damage detection using one-dimensional convolutional neural networks, J. Sound Vib. 388 (2017), https://doi.org/10.1016/j.jsv.2016.10.043.
+
+[110] O. Avci, O. Abdeljaber, S. Kiranyaz, B. Boashash, H. Sodano, D.J. Inman, Efficiency Validation of One Dimensional Convolutional Neural Networks for
+
+Structural Damage Detection Using a SHM Benchmark Data, 2018.
+
+[111] O. Abdeljaber, O. Avci, M.S. Kiranyaz, B. Boashash, H. Sodano, D.J. Inman, 1-D CNNs for structural damage detection: verification on a structural health monitoring benchmark data,Neurocomputing(2017),https://doi.org/10.1016/j.neucom.2017.09.069.
+
+[112] T. Ince, S. Kiranyaz, L. Eren, M. Askar, M. Gabbouj, Real-time motor fault detection by 1-D convolutional neural networks, IEEE Trans. Ind. Electron. 63(2016)7067–7075, https://doi.org/10.1109/TIE.2016.2582729.
+
+[113] S. Kiranyaz, A. Gastli, L. Ben-Brahim, N. Alemadi, M. Gabbouj, Real-time fault detection and identification for MMC using 1D convolutional neural
+
+networks, IEEE Trans. Ind. Electron. (2018), https://doi.org/10.1109/TIE.2018.2833045.
+
+[114] O. Abdeljaber, S. Sassi, O. Avci, S. Kiranyaz, I. Abulrahman, M. Gabbouj, Fault detection and severity identification of ball bearings by online condition
+
+monitoring, IEEE Trans. Ind. Electron. (2018).
+
+[115] L. Eren, T. Ince, S. Kiranyaz, A generic intelligent bearing fault diagnosis system using compact adaptive 1D CNN classifier, J. Signal Process. Syst. 91(2019) 179–189, https://doi.org/10.1007/s11265-018-1378-3.
+
+[116] L. Eren, Bearing fault detection by one-dimensional convolutional neural networks, Math. Probl. Eng. 2017 (2017), https://doi.org/10.1155/2017/8617315.
+
+[117] W. Zhang, C. Li, G. Peng, Y. Chen, Z. Zhang, A deep convolutional neural network with new training methods for bearing fault diagnosis under noisy environment and different working load, Mech. Syst. Signal Process. 100 (2018) 439–453, https://doi.org/10.1016/j.ymssp.2017.06.022.
+
+[118] O Avci, O Abdeljaber, S Kiranyaz, M Hussein, M Gabbouj, D Inman, A Review of Vibration-Based Damage Detection in Civil Structures: From Traditional Methods to Machine Learning and Deep Learning Applications, Mechanical Systems and Signal Processing 147 (2021) 107077, https://doi.org/10.1016/j.ymssp.2020.107077.
+
+[119] Y. Yu, C. Wang, X. Gu, J. Li, A novel deep learning-based method for damage identification of smart building structures, Struct. Heal. Monit. 18 (2019)143–163, https://doi.org/10.1177/1475921718804132.
+
+[120] H. Khodabandehlou, G. Pekcan, M.S. Fadali, Vibration-based structural condition assessment using convolution neural networks, Struct. Control Heal.Monit. (2018), https://doi.org/10.1002/stc.2308.
+
+[121] O. Avci, O. Abdeljaber, S. Kiranyaz, B. Boashash, H. Sodano, D.J. Inman, Efficiency Validation of One Dimensional Convolutional Neural Networks for Structural Damage Detection Using a SHM Benchmark Data, 2018.
+
+[122] O. Abdeljaber, O. Avci, M.S. Kiranyaz, B. Boashash, H. Sodano, D.J. Inman, 1-D CNNs for structural damage detection: verification on a structural health monitoring benchmark data, Neurocomputing (2017), https://doi.org/10.1016/j.neucom.2017.09.069.
+
+[123] H. Lee, L. Yan, P. Pham, A.Y. Ng, Unsupervised feature learning for audio classification using convolutional deep belief networks, in: Adv. Neural Inf.
+
+Process. Syst. 22 - Proc. 2009 Conf., 2009, pp. 1096–1104.
+
+[124] D. Hau, K. Chen, Exploring hierarchical speech representations with a deep convolutional neural network, in: Proc. UKCI’11, 2011.
+
+[125] T. Sainath, A.-R. Mohamed, B. Kingsbury, and B. Ramabhad-ran, “Deep convolutional neural networks for lvcsr,” in Acous-tics, Speech and Signal Processing (ICASSP), 2013 IEEE Inter-
+
+national Conference on, May 2013, pp. 8614–8618.
+
+[126] O. Abdel-Hamid, A.R. Mohamed, H. Jiang, L. Deng, G. Penn, D. Yu, Convolutional neural networks for speech recognition, IEEE Trans. Audio, Speech
+
+Lang. Process. 22 (2014) 1533–1545, https://doi.org/10.1109/TASLP.2014.2339736.
+
+[127] M. Bi, Y. Qian, K. Yu, Very deep convolutional neural networks for LVCSR, in: Proc. Annu. Conf. Int. Speech Commun. Assoc. INTERSPEECH. 2015–Janua,2015, pp. 3259–3263.
+
+[128] T. Sercu, C. Puhrsch, B. Kingsbury, Y. Lecun, Very deep multilingual convolutional neural networks for LVCSR, ICASSP, in: IEEE Int. Conf. Acoust. Speech Signal Process. - Proc. 2016–May, 2016, pp. 4955–4959. https://doi.org/10.1109/ICASSP.2016.7472620.
+
+[129] D. Yu, W. Xiong, J. Droppo, A. Stolcke, G. Ye, J. Li, G. Zweig, Deep convolutional neural networks with layer-wise context expansion and attention, in:Proc. Annu. Conf. Int. Speech Commun. Assoc. INTERSPEECH. 08–12–Sept, 2016, pp. 17–21. https://doi.org/10.21437/Interspeech.2016-251.
+
+[130] T. Zhao, Y. Zhao, X. Chen, Time-frequency kernel-based CNN for speech recognition, in: Proc. Annu. Conf. Int. Speech Commun. Assoc. INTERSPEECH.2015–Janua, 2015, pp. 1888–1892.
+
+[131] Ronneberger, O.; Fischer, P.; Brox, T. U-net: Convolutional networks for biomedical image segmentation. In Proceedings of the Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics); Springer, Cham.: Munich, Germany, 2015; Vol. 9351, pp. 234–241.
+
+[132] Çiçek, Ö.; Abdulkadir, A.; Lienkamp, S.S.; Brox, T.; Ronneberger, O. 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation. In Proceedings of the Medical Image Computing and Computer-Assisted Intervention; Springer, Cham.: Athens, Greece, 2016; Vol. 9901 LNCS, pp. 424–432.
+
+[133] F  Milletari,  Navab N ,  Ahmadi S A . V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation[C]// 2016 Fourth International Conference on 3D Vision (3DV). IEEE, 2016.
+
+
+[134] Return of the devil in the details: delving deep into convolutional nets (2014), K. Chatfield et al.
+
+[135] ASK, BOA, COA, et al. 1D convolutional neural networks and applications: A survey - ScienceDirect[J]. Mechanical Systems and Signal Processing, 151. 
